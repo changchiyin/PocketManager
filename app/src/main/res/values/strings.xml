@@ -22,5 +22,7 @@
     <string name="appwidget_text">桌面小工具</string>
     <string name="add_widget">Add widget</string>
     <string name="app_widget_description">This is an app widget description</string>
-    <string name="appwidget_edittext">This is an app widget description</string>
+    <string name="appwidget_edittext">桌面輸入欄位</string>
+    <string name="appwidget_buttom">上傳</string>
+    <string name="appwidget_edittextdes">輸入內容</string>
 </resources>

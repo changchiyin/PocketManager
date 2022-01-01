@@ -3,56 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Sean/AndroidStudioProjects/IHAVENOIDEA/app/src/main/res/layout/activity_insert.xml" value="0.5739583333333333" />
         <entry key="..\:/Users/Sean/AndroidStudioProjects/IHAVENOIDEA/app/src/main/res/layout/activity_main.xml" value="0.34322916666666664" />
         <entry key="..\:/Users/Sean/AndroidStudioProjects/IHAVENOIDEA/app/src/main/res/layout/add_or_edit_page.xml" value="0.34322916666666664" />
         <entry key="..\:/Users/Sean/AndroidStudioProjects/IHAVENOIDEA/app/src/main/res/layout/asset_frame.xml" value="0.34322916666666664" />
+        <entry key="..\:/Users/Sean/AndroidStudioProjects/IHAVENOIDEA/app/src/main/res/layout/backup_page.xml" value="0.5364583333333334" />
         <entry key="..\:/Users/Sean/AndroidStudioProjects/IHAVENOIDEA/app/src/main/res/layout/category_page.xml" value="0.34322916666666664" />
         <entry key="..\:/Users/Sean/AndroidStudioProjects/IHAVENOIDEA/app/src/main/res/layout/daily_records.xml" value="0.34322916666666664" />
         <entry key="..\:/Users/Sean/AndroidStudioProjects/IHAVENOIDEA/app/src/main/res/layout/home_page.xml" value="0.34322916666666664" />
+        <entry key="..\:/Users/Sean/AndroidStudioProjects/IHAVENOIDEA/app/src/main/res/layout/property_page.xml" value="0.16767983789260385" />
         <entry key="..\:/Users/Sean/AndroidStudioProjects/IHAVENOIDEA/app/src/main/res/layout/settings.xml" value="0.2875" />
         <entry key="..\:/Users/Sean/AndroidStudioProjects/IHAVENOIDEA/app/src/main/res/layout/single_record.xml" value="0.34322916666666664" />
         <entry key="..\:/Users/Sean/AndroidStudioProjects/IHAVENOIDEA/app/src/main/res/layout/tabletool.xml" value="0.5" />
         <entry key="..\:/Users/Sean/AndroidStudioProjects/IHAVENOIDEA/app/src/main/res/layout/test_google.xml" value="0.34322916666666664" />
-        <entry key="..\:/Users/Sean/AndroidStudioProjects/IHAVENOIDEA/app/src/main/res/layout/single_record.xml" value="0.490036231884058" />
-        <entry key="..\:/Users/Sean/AndroidStudioProjects/IHAVENOIDEA/app/src/main/res/layout/tabletool.xml" value="0.16742654508611957" />
-        <entry key="..\:/Users/Sean/AndroidStudioProjects/IHAVENOIDEA/app/src/main/res/layout/test_google.xml" value="0.490036231884058" />
-        <entry key="app/src/main/res/layout/activity_category_list.xml" value="0.165625" />
-        <entry key="app/src/main/res/layout/activity_graph.xml" value="0.165625" />
-        <entry key="..\:/PocketManager/app/src/main/res/layout/activity_add_category.xml" value="0.18115942028985507" />
-        <entry key="..\:/PocketManager/app/src/main/res/layout/activity_category_list.xml" value="0.18115942028985507" />
-        <entry key="..\:/PocketManager/app/src/main/res/layout/activity_child_category.xml" value="0.18115942028985507" />
-        <entry key="..\:/PocketManager/app/src/main/res/layout/activity_graph.xml" value="0.18115942028985507" />
-        <entry key="..\:/PocketManager/app/src/main/res/layout/activity_insert.xml" value="0.18115942028985507" />
-        <entry key="..\:/PocketManager/app/src/main/res/layout/activity_main.xml" value="0.264" />
-        <entry key="..\:/PocketManager/app/src/main/res/layout/activity_main13.xml" value="0.16530797101449277" />
-        <entry key="..\:/PocketManager/app/src/main/res/layout/activity_main2.xml" value="0.1" />
-        <entry key="..\:/PocketManager/app/src/main/res/layout/activity_main3.xml" value="0.1296875" />
-        <entry key="..\:/PocketManager/app/src/main/res/layout/activity_main4.xml" value="0.1743659420289855" />
-        <entry key="..\:/PocketManager/app/src/main/res/layout/activity_main6.xml" value="0.1" />
-        <entry key="..\:/PocketManager/app/src/main/res/layout/activity_main9.xml" value="0.2" />
-        <entry key="..\:/PocketManager/app/src/main/res/layout/activity_test.xml" value="0.128" />
-        <entry key="..\:/PocketManager/app/src/main/res/layout/add_or_edit_page.xml" value="0.18115942028985507" />
-        <entry key="..\:/PocketManager/app/src/main/res/layout/asset_frame.xml" value="0.18115942028985507" />
-        <entry key="..\:/PocketManager/app/src/main/res/layout/backup_page.xml" value="0.10260416666666666" />
-        <entry key="..\:/PocketManager/app/src/main/res/layout/category.xml" value="0.18115942028985507" />
-        <entry key="..\:/PocketManager/app/src/main/res/layout/category_page.xml" value="0.16" />
-        <entry key="..\:/PocketManager/app/src/main/res/layout/daily_records.xml" value="0.18115942028985507" />
-        <entry key="..\:/PocketManager/app/src/main/res/layout/home_page.xml" value="0.18115942028985507" />
-        <entry key="..\:/PocketManager/app/src/main/res/layout/settings.xml" value="0.2" />
-        <entry key="..\:/PocketManager/app/src/main/res/layout/single_record.xml" value="0.18115942028985507" />
-        <entry key="..\:/Users/q1234/Desktop/SE/FinalProject/PocketManager/app/src/main/res/drawable/button_style.xml" value="0.11979166666666667" />
-        <entry key="..\:/Users/q1234/Desktop/SE/FinalProject/PocketManager/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Users/q1234/Desktop/SE/FinalProject/PocketManager/app/src/main/res/layout/add_or_edit_page.xml" value="0.2" />
-        <entry key="..\:/Users/q1234/Desktop/SE/FinalProject/PocketManager/app/src/main/res/layout/add_or_edit_record.xml" value="0.1793478260869565" />
-        <entry key="..\:/Users/q1234/Desktop/SE/FinalProject/PocketManager/app/src/main/res/layout/asset_frame.xml" value="0.10364583333333334" />
-        <entry key="..\:/Users/q1234/Desktop/SE/FinalProject/PocketManager/app/src/main/res/layout/assetframe.xml" value="0.1265625" />
-        <entry key="..\:/Users/q1234/Desktop/SE/FinalProject/PocketManager/app/src/main/res/layout/daily_records.xml" value="0.11927083333333334" />
-        <entry key="..\:/Users/q1234/Desktop/SE/FinalProject/PocketManager/app/src/main/res/layout/home_page.xml" value="0.264" />
-        <entry key="..\:/Users/q1234/Desktop/SE/FinalProject/PocketManager/app/src/main/res/layout/single_record.xml" value="0.4" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.165625" />
-        <entry key="app/src/main/res/layout/activity_main3.xml" value="0.335" />
-        <entry key="app/src/main/res/layout/settings.xml" value="0.45" />
-        <entry key="app/src/main/res/layout/test_google.xml" value="0.26163723636036146" />
       </map>
     </option>
   </component>
