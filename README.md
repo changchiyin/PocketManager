@@ -7,16 +7,14 @@
 1. 圖表檢視，讓你輕鬆閱覽你的收支情況
 2. 自定義收支類別，讓你輕鬆區分每一筆紀錄
 3. 可將紀錄存到自己的google drive，檔案不怕丟失！
-4. 桌面小工具：不用打開APP即可檢視自己的財務狀況
-5. 擷取line pay自動記帳，自動擷取line pay通知資訊然後記錄下來。
-6. 不需註冊！下載即可使用！
+4. 不需註冊！下載即可使用！
 
 # 需求
-android 手機
+Android 手機
 
 # 開發人員
 - 徐易中 tulsa0415@gmail.com
-- 張治尹 changchiyin＠gmail.com
+- 張治尹 changchiyin@gmail.com
 - 陳冠宇 a0973471825@gmail.com
 - 柳嘉祐 q892000@gmail.com
 - 邱敏傑 q1234565701@gmail.com
