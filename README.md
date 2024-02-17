@@ -1,3 +1,6 @@
+# 下載連結
+https://play.google.com/store/apps/details?id=com.mark.pocketmanager
+
 # 簡介
 這是一個給大學生用的記帳軟體
 
